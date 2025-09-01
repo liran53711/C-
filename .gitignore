@@ -1,0 +1,25 @@
+# PDF文件
+*.pdf
+
+# 编译生成的文件
+*.o          # 目标文件
+*.obj        # Windows目标文件
+*.exe        # Windows可执行文件
+*.out        # Linux/Mac可执行文件
+a.out        # 默认可执行文件名
+*.app        # Mac应用程序
+
+# 调试文件
+*.dSYM/      # Mac调试符号
+*.pdb        # Windows调试数据库
+
+# IDE和编辑器文件
+.vscode/     # VS Code配置
+.idea/       # IntelliJ IDEA
+*.swp        # Vim交换文件
+*.swo        # Vim交换文件
+*~           # 临时文件
+
+# 系统文件
+.DS_Store    # Mac系统文件
+Thumbs.db    # Windows缩略图
