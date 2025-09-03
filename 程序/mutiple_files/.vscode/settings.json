@@ -1,0 +1,16 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++11 -fdiagnostics-color=always -g main.cpp calculator.cpp utils.cpp -o calculator && ./calculator"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+    "files.associations": {
+        "*.h": "cpp",
+        "*.cpp": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.intelliSenseMode": "macos-clang-arm64"
+}
